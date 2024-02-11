@@ -1,1 +1,1 @@
-# quotes-generator
+•Perview:- https://quotes-generator-omega.vercel.app/
